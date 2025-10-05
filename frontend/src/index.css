@@ -1,0 +1,15 @@
+@font-face {
+  font-family: doran;
+  src: url(DORANFANUM-REGULAR.TTF);
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'doran';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, ' doran',
+    monospace;
+}
